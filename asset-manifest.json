@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Baranwal-News/static/css/main.073c9b0a.css",
+    "main.js": "/Baranwal-News/static/js/main.384c2a1a.js",
+    "static/js/787.4c026eef.chunk.js": "/Baranwal-News/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/Baranwal-News/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/Baranwal-News/index.html",
+    "main.073c9b0a.css.map": "/Baranwal-News/static/css/main.073c9b0a.css.map",
+    "main.384c2a1a.js.map": "/Baranwal-News/static/js/main.384c2a1a.js.map",
+    "787.4c026eef.chunk.js.map": "/Baranwal-News/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.384c2a1a.js"
+  ]
+}
